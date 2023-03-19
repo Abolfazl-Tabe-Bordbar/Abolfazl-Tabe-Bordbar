@@ -18,6 +18,8 @@ Hi! My Name Is Abolfazl Tabe Bordbar👋
         <a href="https://v3.nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="nuxtjs" /></a>
         <a href="https://v3.nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="csharp" /></a>
         <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart.svg" width="36" height="36" alt="dart" /></a>
+        <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs.svg" width="36" height="36" alt="nodejs" /></a>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express.svg" width="36" height="36" alt="express" /></a>
  </p>
 
 
